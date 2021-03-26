@@ -7,3 +7,4 @@ The files in this repository are licensed under the terms of the GNU Affero Gene
 ## Scripts
 
 -   [**Playtime**](https://github.com/nickhasoccured/denizen-scripts/tree/main/playtime/) - A simple `/playtime` command that works on other players.
+-   [**Sneak Click Trading**](https://github.com/nickhasoccured/denizen-scripts/tree/main/sneakClickTrading/) - Runs `/trade <player>` (as the player) when someone shift-right-clicks another player.
